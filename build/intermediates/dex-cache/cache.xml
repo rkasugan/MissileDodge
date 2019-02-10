@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rohan\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\rohan\Desktop\MissileGame\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_9cdf080af1fc1e973c99caa1e092ce8061a4027e.jar" />
+    </item>
+    <item
+        jar="C:\Users\rohan\Desktop\MissileGame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="e6548c262566d51d479a3a38d73dea2e1a5045fa">
+        <dex dex="C:\Users\rohan\Desktop\MissileGame\android\build\intermediates\pre-dexed\debug\core-1.0_8a5533e34eb9cbc8e755507546c1e11fd37ce92a.jar" />
+    </item>
+    <item
+        jar="C:\Users\rohan\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\rohan\Desktop\MissileGame\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_8ab0a9828487c8de9dce6d1fb1209a9e88aade19.jar" />
+    </item>
+
+</items>

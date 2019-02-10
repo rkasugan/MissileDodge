@@ -1,0 +1,34 @@
+
+missile.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+missile1
+  rotate: false
+  xy: 233, 42
+  size: 72, 302
+  orig: 72, 302
+  offset: 0, 0
+  index: -1
+missile2
+  rotate: false
+  xy: 155, 14
+  size: 76, 330
+  orig: 76, 330
+  offset: 0, 0
+  index: -1
+missile3
+  rotate: false
+  xy: 2, 0
+  size: 75, 344
+  orig: 75, 344
+  offset: 0, 0
+  index: -1
+missile4
+  rotate: false
+  xy: 79, 3
+  size: 74, 341
+  orig: 74, 341
+  offset: 0, 0
+  index: -1
